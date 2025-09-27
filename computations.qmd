@@ -36,10 +36,4 @@ Additionally, mileage is higher for cars with fewer cylinders.
 )
 ```
 
-```{python}
-#| echo: true    
-#| label: nobs
-len(mpg)
-```
-
-There are `py len(mpg)` observations in our data.
+There are `{python} len(mpg)` observations in our data.
